@@ -1,0 +1,6 @@
+@FixedAssetManagement__HostAddress = http://localhost:5064
+
+GET {{FixedAssetManagement__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
